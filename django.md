@@ -37,4 +37,5 @@ cd todoApp
 
 py manage.py migrate
 
+py .\manage.py startapp [nome]
 ```
