@@ -14,3 +14,13 @@ py -m venv .venv
 
 # Instalar Django
 py -m pip install Django
+
+django-admin startproject [nome do projeto]
+
+cd [nome]
+
+py manage.py runserver
+```
+## Criando um APP
+```bash
+py .\manage.py startapp app
