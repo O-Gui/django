@@ -24,3 +24,17 @@ py manage.py runserver
 ## Criando um APP
 ```bash
 py .\manage.py startapp app
+```
+## split terminal
+
+```bash
+# voltar uma pasta
+cd ..
+
+.venv\Scripts\activate
+
+cd todoApp
+
+py manage.py migrate
+
+```
