@@ -38,5 +38,7 @@ py manage.py migrate
 
 py manage.py createsuperuser
 
+ulr.../admin
+
 py .\manage.py startapp [nome]
 ```
