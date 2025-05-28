@@ -25,8 +25,7 @@ py manage.py runserver
 ```bash
 py .\manage.py startapp app
 ```
-## split terminal
-## migrate
+## split terminal | migrate
 ```bash
 # voltar uma pasta
 cd ..
