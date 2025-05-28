@@ -36,5 +36,7 @@ cd todoApp
 
 py manage.py migrate
 
+py manage.py createsuperuser
+
 py .\manage.py startapp [nome]
 ```
