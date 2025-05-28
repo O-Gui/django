@@ -42,3 +42,11 @@ ulr.../admin
 
 py .\manage.py startapp [nome]
 ```
+## migrate
+
+```bash
+
+py manage.py makemigrations
+
+py .\manage.py migrate
+```
